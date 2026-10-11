@@ -1,6 +1,6 @@
 # Escapa Si Puedes
 
-Juego en tercera persona hecho en Unreal Engine 5.3 con Blueprints, como trabajo final de la materia de Unreal (enero a abril de 2025). Arrancás encerrado en una celda y tenés que salir de la cárcel sin que te agarren los policías que patrullan las torres y los pasillos.
+Juego en tercera persona hecho con Blueprints como trabajo final de la materia de Unreal (enero a abril de 2025). Lo desarrollé en Unreal Engine 5.3 y después lo pasé a 5.8. Arrancás encerrado en una celda y tenés que salir de la cárcel sin que te agarren los policías que patrullan las torres y los pasillos.
 
 Antes de tocar el editor dibujé el mapa entero en un croquis, con dónde va cada guardia, cada llave y cada interruptor:
 
@@ -12,7 +12,7 @@ El recorrido es así: buscás una ganzúa escondida en tu celda para abrirla, y 
 
 ## Cómo abrirlo
 
-Con Unreal Engine 5.3 instalado, abrir `EscapaSiPuedes.uproject`. Arranca en el menú principal (`Levels/MainMenu`).
+Con Unreal Engine 5.8 instalado, abrir `EscapaSiPuedes.uproject` (los assets están guardados en 5.8, así que no abren en versiones anteriores; la versión en 5.3 queda en el historial del repo). Arranca en el menú principal (`Levels/MainMenu`).
 
 Controles: WASD para moverse, mouse para la cámara, Espacio para saltar y E para interactuar con puertas, objetos y el compañero de celda.
 
